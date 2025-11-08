@@ -16,5 +16,3 @@
 ## 🐾  Meu Pitch
 
 [![PITCH - SAVEPET APP (CURSO DE ADS)](https://ytcards.demolab.com/?id=BmgzsMVfhcY&title=PITCH+-+SAVEPET+APP+(CURSO+DE+ADS)&lang=pt&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0 "PITCH - SAVEPET APP (CURSO DE ADS)")](https://youtu.be/BmgzsMVfhcY?si=b4rhsvSGwVMgkNu0)
-
-![Snake animation](https://github.com/evedpxd/evedpxd/blob/output/github-contribution-grid-snake.svg)
