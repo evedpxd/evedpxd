@@ -1,4 +1,5 @@
-![logo](https://drive.google.com/drive/recent?hl=pt-br)
+![logo](<img width="1700" height="460" alt="image" src="https://github.com/user-attachments/assets/69afff6d-a868-4f1f-a2e4-51d34e9139d8" />
+)
 
 ### Oi, me chamo Evelyn!
 
