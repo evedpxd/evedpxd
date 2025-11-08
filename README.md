@@ -1,5 +1,4 @@
-![logo](<img width="1700" height="460" alt="image" src="https://github.com/user-attachments/assets/69afff6d-a868-4f1f-a2e4-51d34e9139d8" />
-)
+![logo](https://github.com/evedpxd/evedpxd/blob/main/github-header-banner%20(1).png)
 
 ### Oi, me chamo Evelyn!
 
