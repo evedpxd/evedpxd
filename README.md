@@ -1,5 +1,4 @@
 [![MasterHead](
-<img align="right" alt="Coding" width="300" src="https://c.tenor.com/4RYbGa1GttQAAAAd/lofi-browsing.gif">
 
 ### Oi, me chamo Evelyn!
 
