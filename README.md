@@ -1,12 +1,12 @@
 ![logo](https://github.com/evedpxd/evedpxd/blob/main/github-header-banner%20(1).png)
 
-## Olá, me chamo Evelyn!
+## Olá, me chamo Evelyn! 💌
 
 👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas<br/>
 🏫 Estudei Informática Para Internet no Colégio da Polícia Militar em João Pessoa, Paraíba<br/>
-🎨 Criatividade além da programação, com destaque em um pitch que se tornou referência<br/>
 📄 Você pode encontrar um pouco mais sobre meus projetos acadêmicos no meu >[portfólio](https://evelyn-diniz-portfolio.webnode.page/)<<br/>
-<br/>
+🎨 Criatividade além da programação<br/>
+
 ![Estatísticas do GitHub da Evelyn](https://github-readme-stats.vercel.app/api?username=evedpxd&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=darcula&locale=pt-br)
 
 ## 💻 Hard Skills
