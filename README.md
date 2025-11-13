@@ -1,4 +1,4 @@
-![logo](https://github.com/evedpxd/evedpxd/blob/main/github-header-banner%20(1).png)
+![logo](https://github.com/evedpxd/evedpxd/blob/main/github-banner.png)
 
 ## Olá, me chamo Evelyn! 💌
 
