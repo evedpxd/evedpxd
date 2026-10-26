@@ -2,7 +2,7 @@
 
 ## Olá, me chamo Evelyn! 💌
 
-👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas<br/>
+👩🏻‍💻 Formada em Análise e Desenvolvimento de Sistemas<br/>
 🏫 Estudei Informática Para Internet no Colégio da Polícia Militar em João Pessoa, Paraíba<br/>
 📄 Você pode encontrar um pouco mais sobre meus projetos acadêmicos no meu >[portfólio](https://evelyn-diniz-portfolio.webnode.page/)<<br/>
 🎨 Criatividade além da programação<br/>
